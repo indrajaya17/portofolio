@@ -1,2 +1,2 @@
 # portofolio
-new
+ini adalah tugas kedua berupa portofolio
